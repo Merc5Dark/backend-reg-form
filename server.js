@@ -1,5 +1,7 @@
 // Load HTTP module
 const http = require("http");
+const express = require('express');
+const cors = require('cors');
 
 const hostname = "127.0.0.1";
 const port = 8000;
