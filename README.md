@@ -1,1 +1,4 @@
-"# backend-reg-form" 
+axios
+
+redux
+
